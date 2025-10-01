@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+.envrc
+*.sqlite
+*.db
+instance/
+.cache/
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports/Artifacts
+reports/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
